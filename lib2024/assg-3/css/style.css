@@ -13,6 +13,10 @@ header {
 }
 
 p { 
+	color: white;
 	font-family: "Century Gothic", sans-serif;
 	font-size: 20px;
+}
+a {
+	color: #521451;
 }
