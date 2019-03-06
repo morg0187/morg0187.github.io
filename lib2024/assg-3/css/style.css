@@ -10,3 +10,7 @@ header {
 	font-family: "Book Antiqua", serif;
 	text-decoration: underline;
 }
+
+p {
+	font-family: "Century Gothic", sans-serif;
+}
