@@ -7,6 +7,7 @@ header {
 }
 
 #intro-heading {
+	color: white;
 	font-family: "Book Antiqua", serif;
 	font-size: 40px;
 	text-decoration: underline;
