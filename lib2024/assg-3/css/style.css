@@ -22,3 +22,9 @@ p {
 a {
 	color: #521451;
 }
+
+label {
+	color: #521451;
+	font-family: "Century Gothic", sans-serif;
+	font-size: 20px;
+}
