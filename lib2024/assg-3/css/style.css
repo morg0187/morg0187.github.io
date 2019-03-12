@@ -25,6 +25,7 @@ a {
 
 table {
 	border: 1px solid #521451;
+	text-align: center;
 	width:70%; 
     margin-left:15%; 
     margin-right:15%;
@@ -38,6 +39,7 @@ th {
 
 td {
 	border: 1 px solid #521451;
+	text-align: center;
 }
 
 label {
