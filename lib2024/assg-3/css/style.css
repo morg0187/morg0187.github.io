@@ -28,6 +28,11 @@ a {
 	align-items: center;
 }
 
+th {
+	font-family: "Century Gothic", sans-serif;
+	color: white;
+}
+
 label {
 	color: #521451;
 	font-family: "Century Gothic", sans-serif;
