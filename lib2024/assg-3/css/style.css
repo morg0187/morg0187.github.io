@@ -23,15 +23,21 @@ a {
 	color: #521451;
 }
 
-table, td {
+table {
 	border: 1px solid #521451;
-	align-items: center;
+	width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
 }
 
 th {
 	font-family: "Century Gothic", sans-serif;
 	color: white;
 	font-size: 20px
+}
+
+td {
+	border: 1 px solid #521451;
 }
 
 label {
