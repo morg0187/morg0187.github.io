@@ -23,6 +23,10 @@ a {
 	color: #521451;
 }
 
+#form-table {
+	border: 1px #521451
+}
+
 label {
 	color: #521451;
 	font-family: "Century Gothic", sans-serif;
