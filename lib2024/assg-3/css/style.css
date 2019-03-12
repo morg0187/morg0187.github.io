@@ -23,12 +23,9 @@ a {
 	color: #521451;
 }
 
-main {
-	text-align: center;
-}
-
 #form-table, th, td {
 	border: 1px solid #521451;
+	align-items: center;
 }
 
 th {
