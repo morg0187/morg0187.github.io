@@ -25,6 +25,7 @@ a {
 
 #form-table {
 	border: 1px #521451;
+	align-items: center;
 }
 
 label {
