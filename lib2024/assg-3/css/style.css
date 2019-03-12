@@ -23,7 +23,7 @@ a {
 	color: #521451;
 }
 
-#form-table {
+#form-table, th, td {
 	border: 1px solid #521451;
 	text-align: center;
 }
