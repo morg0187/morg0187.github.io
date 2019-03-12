@@ -100,7 +100,7 @@
 									<label for="province">Province/Territory</label>
 								</td>
 								<td>
-									<select id="province" form="form" placeholder="Select a Province">
+									<select id="province" form="form">
 										<option value="AB">Alberta</option>
 										<option value="BC">British Columbia</option>
 										<option value="MB">Manitoba</option>
@@ -115,6 +115,14 @@
 										<option value="SK">Saskatchewan</option>
 										<option value="YT">Yukon</option>
 									</select>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<label for="postal-code">Postal Code</label>
+								</td>
+								<td>
+									<input type="text" name="postal-code" pattern="[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}" placeholder="H0H0H0">
 								</td>
 							</tr>
 						</tbody>	
