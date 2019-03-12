@@ -32,6 +32,7 @@ table#form-table {
 }
 
 th {
+	align-content: center;
 	font-family: "Century Gothic", sans-serif;
 	color: white;
 	font-size: 20px
