@@ -28,4 +28,7 @@ html {
 
 #form-table {
 	border: 5px solid #4B0082;
+	margin-left: 10%;
+	margin-right:10%;
+	width: 80%
 }
