@@ -51,5 +51,7 @@ textarea {
 }
 
 #buttons {
-	align-content: center;
+	margin-left: 10%;
+	margin-right:10%;
+	width: 80%;
 }
