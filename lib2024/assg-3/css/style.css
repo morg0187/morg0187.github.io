@@ -4,7 +4,7 @@
 }
 
 html {
-	background: #D8BFD8
+	background: #D8BFD8;
 }	
 
 #intro-heading {
@@ -13,4 +13,9 @@ html {
 	color: #4B0082;
 	font-family: "Book Antiqua", serif;
 	font-size: 40px;
+}
+
+#intro-article {
+	text-align: center;
+	font-family: "Century Gothic", sans-serif;
 }
