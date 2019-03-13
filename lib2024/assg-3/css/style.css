@@ -36,7 +36,7 @@ table#form-table {
     margin-right:15%;
 }
 
-.table-data {
+td.table-data {
 	border: 1 px solid #521451;
 	text-align: center;
 }
