@@ -15,7 +15,12 @@ html {
 	font-size: 40px;
 }
 
+.wrapper {
+	margin-top: 10px;
+}
+
 #intro-article {
 	text-align: center;
 	font-family: "Century Gothic", sans-serif;
+	font-size: 20px;
 }
