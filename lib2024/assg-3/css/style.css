@@ -49,3 +49,7 @@ textarea {
 	height: 80px;
 	width: 200px;
 }
+
+#buttons {
+	align-content: center;
+}
