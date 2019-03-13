@@ -7,4 +7,10 @@ html {
 	background-color: #D8BFD8;
 }
 
-.wrapper
+#intro-heading {
+	text-align: center;
+	text-decoration: underline;
+	text-decoration: bold;
+	font-family: "Book Antiqua", serif;
+	font-size: 40px;
+}
