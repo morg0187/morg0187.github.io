@@ -38,3 +38,7 @@ label {
 	margin-right:10%;
 	width: 80%
 }
+
+tr {
+	border: 5px solid #4B0082;
+}
