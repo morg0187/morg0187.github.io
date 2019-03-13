@@ -15,6 +15,7 @@ label {
 
 tr {
 	border: 5px solid #4B0082;
+	align-content: center;
 }	
 
 #intro-heading {
