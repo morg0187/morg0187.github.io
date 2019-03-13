@@ -11,11 +11,6 @@ label {
 	font-family: "Century Gothic", sans-serif;
 	font-size: 20px;
 	color: #4B0082;
-}
-
-tr {
-	border: 5px solid #4B0082;
-	align-content: center;
 }	
 
 #intro-heading {
@@ -42,4 +37,5 @@ tr {
 	margin-left: 10%;
 	margin-right:10%;
 	width: 80%;
+	align-content: center;
 }
