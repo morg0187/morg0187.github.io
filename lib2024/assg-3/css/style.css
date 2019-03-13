@@ -7,42 +7,10 @@ html {
 	background-color: #DDA7E0;
 }
 
-header {
-	text-align: center;
-}
-
 #intro-heading {
 	color: #521451;
 	font-family: "Book Antiqua", serif;
 	font-size: 40px;
 	text-decoration: underline;
-}
-
-p { 
-	color: white;
-	font-family: "Century Gothic", sans-serif;
-	font-size: 20px;
-}
-
-a {
-	color: #521451;
-}
-
-table {
-	border: 1px solid #521451;
 	text-align: center;
-	width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
-}
-
-tr {
-	border: 1 px solid #521451;
-	text-align: center;
-}
-
-label {
-	color: #521451;
-	font-family: "Century Gothic", sans-serif;
-	font-size: 20px;
 }
