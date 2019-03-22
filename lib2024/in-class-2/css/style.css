@@ -12,7 +12,7 @@ html {
 .clearfix::after {
   content: "";
   clear: both;
-  display: inline;
+  display: block;
 }
 
 #header {
