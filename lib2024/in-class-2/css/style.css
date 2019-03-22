@@ -1,3 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-image: url("https://morg0187.github.io/lib2024/in-class-2/img/bananas.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .heading {
 	font-family: "Playfair Display SC", serif;
 	font-size: 36px;
