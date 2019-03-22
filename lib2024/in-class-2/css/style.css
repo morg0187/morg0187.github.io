@@ -17,7 +17,7 @@ html {
 
 #header {
 	padding: 75px;
-	color: #b39ddb;
+	background-color: #b39ddb;
 	height: 475px;
 	width: 100%;
 }
@@ -27,6 +27,7 @@ html {
 }
 
 .heading {
+	float: left;
 	font-family: Ubuntu, sans-serif;
 	font-size: 36px;
 }
