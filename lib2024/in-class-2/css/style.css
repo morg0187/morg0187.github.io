@@ -16,9 +16,7 @@ html {
 	text-align: center;
 }
 
-.minor-heading {
-	font-family: "Playfair Display SC", serif;
-	font-size: 20px;
-	text-decoration: underline;
-	text-align: center;
+.text {
+	font-family: Comfortaa;
+	font-size: 16px;
 }
