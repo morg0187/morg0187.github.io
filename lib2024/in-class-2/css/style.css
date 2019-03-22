@@ -19,6 +19,17 @@ html {
 	font-family: "Playfair Display SC", serif;
 	font-size: 20px;
 	text-decoration: underline;
+	text-align: center;
+}
+
+.table {
+	margin-left: 10%;
+	margin-right:10%;
+	width: 80%;
+	text-align: center;
+	background: white;
+	font-family: Comfortaa, sans-serif;
+	font-size: 16px;
 }
 
 #heading {
@@ -27,7 +38,6 @@ html {
 	text-decoration: underline;
 	text-align: center;
 }
-
 
 #page-info {
 	margin: 50px;
