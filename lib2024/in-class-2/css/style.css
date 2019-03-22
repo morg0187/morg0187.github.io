@@ -7,7 +7,6 @@ html {
 	background-image: url("https://morg0187.github.io/lib2024/in-class-2/img/background-bananas.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color: #b39ddb;
 }
 
 .clearfix:after {
@@ -15,10 +14,10 @@ html {
   clear: both;
   display: table;
 }
-}
 
 #header {
 	padding: 75px;
+	background: #b39ddb;
 }
 
 .head-div {
