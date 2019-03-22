@@ -32,15 +32,6 @@ html {
 	color: #000320;
 }
 
-#navigation-div {
-	position: relative;
-}
-
-nav {
-	position: absolute;
-	bottom: 0;
-}
-
 .nav-div {
 	height: 75px;
 	width: 160px;
