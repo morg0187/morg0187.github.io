@@ -18,6 +18,8 @@ html {
 #header {
 	padding: 75px;
 	color: #b39ddb;
+	height: 475px;
+	width: 100%;
 }
 
 .head-div {
