@@ -21,3 +21,7 @@ html {
 	font-size: 16px;
 	text-align: center;
 }
+
+#page-info {
+	padding: 50px;
+}
