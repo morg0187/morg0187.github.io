@@ -27,7 +27,7 @@ html {
 }
 
 .heading {
-	float: left;
 	font-family: Ubuntu, sans-serif;
 	font-size: 36px;
+	color: #000320;
 }
