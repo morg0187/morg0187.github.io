@@ -23,3 +23,9 @@ html {
 .head-div {
 	float: left;
 }
+
+.heading {
+	font-family: "Ubuntu", sans-serif;
+	font-size: 36px;
+
+}
