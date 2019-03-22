@@ -42,3 +42,8 @@ html {
 #page-info {
 	margin: 50px;
 }
+
+table, th, td {
+	border: 5px solid #000320;
+	border-collapse: collapse;
+}
