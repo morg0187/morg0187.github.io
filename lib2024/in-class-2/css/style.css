@@ -5,4 +5,6 @@
 
 html {
 	background-image: url("https://morg0187.github.io/lib2024/in-class-2/img/background-bananas.png");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
