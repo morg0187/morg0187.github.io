@@ -10,6 +10,13 @@ html {
 	background-color: #b39ddb;
 }
 
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+}
+
 #header {
 	padding: 75px;
 }
