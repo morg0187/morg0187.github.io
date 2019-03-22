@@ -26,10 +26,19 @@ html {
 	float: left;
 }
 
+#wrapper {
+	position: relative;
+}
+
 .heading {
 	font-family: Ubuntu, sans-serif;
 	font-size: 36px;
 	color: #000320;
+}
+
+#navigation-div {
+	position: absolute;
+	bottom: 0;
 }
 
 .nav-div {
@@ -38,8 +47,6 @@ html {
 	background-color: #f9d57d;
 	font-family: "Baloo Chettan", sans-serif;
 	text-align: center;
-}
-
-#navigation-div {
-	width: 100%;
+	align-content: center;
+	padding: 20px;
 }
