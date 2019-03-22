@@ -19,7 +19,7 @@ html {
 	padding: 75px;
 	background-color: #b39ddb;
 	height: 475px;
-	width: 100%;
+	width: calc(100% - 75px);
 }
 
 .head-div {
