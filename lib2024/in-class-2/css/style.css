@@ -9,3 +9,7 @@ html {
 	background-size: cover;
 	background-color: #b39ddb;
 }
+
+.header {
+	padding: 75px;
+}
