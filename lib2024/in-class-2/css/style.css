@@ -26,19 +26,10 @@ html {
 	float: left;
 }
 
-#wrapper {
-	position: relative;
-}
-
 .heading {
 	font-family: Ubuntu, sans-serif;
 	font-size: 36px;
 	color: #000320;
-}
-
-#navigation-div {
-	position: absolute;
-	bottom: 0;
 }
 
 .nav-div {
