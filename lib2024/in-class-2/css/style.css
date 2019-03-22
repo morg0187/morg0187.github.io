@@ -39,3 +39,7 @@ html {
 	font-family: "Baloo Chettan", sans-serif;
 	text-align: center;
 }
+
+#navigation-div {
+	width: 100%;
+}
