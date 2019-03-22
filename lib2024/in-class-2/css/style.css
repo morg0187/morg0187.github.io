@@ -9,7 +9,7 @@ html {
 	background-size: cover;
 }
 
-.heading {
+#heading {
 	font-family: "Playfair Display SC", serif;
 	font-size: 36px;
 	text-decoration: underline;
