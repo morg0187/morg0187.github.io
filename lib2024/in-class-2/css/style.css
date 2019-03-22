@@ -36,6 +36,11 @@ html {
 	position: relative;
 }
 
+nav {
+	position: absolute;
+	bottom: 0;
+}
+
 .nav-div {
 	height: 75px;
 	width: 160px;
@@ -43,6 +48,4 @@ html {
 	font-family: "Baloo Chettan", sans-serif;
 	text-align: center;
 	padding: 20px;
-	position: absolute;
-	bottom: 0;
 }
