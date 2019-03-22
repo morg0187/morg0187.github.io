@@ -36,3 +36,8 @@ nav {
 	width: 50%;
 	font-family: "Baloo Chettan", sans-serif;
 }
+
+.nav-link {
+	width: 30%;
+	background-color: #f9d57d;
+}
