@@ -9,7 +9,7 @@ html {
 	background-size: cover;
 }
 
-.clearfix:after {
+.clearfix::after {
   content: "";
   clear: both;
   display: table;
