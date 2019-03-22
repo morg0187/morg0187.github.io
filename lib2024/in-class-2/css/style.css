@@ -13,3 +13,7 @@ html {
 #header {
 	padding: 75px;
 }
+
+.head-div {
+	float: left;
+}
