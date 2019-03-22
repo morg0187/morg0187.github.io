@@ -9,6 +9,18 @@ html {
 	background-size: cover;
 }
 
+.text {
+	font-family: Comfortaa, sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+
+.table-heading {
+	font-family: "Playfair Display SC", serif;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
 #heading {
 	font-family: "Playfair Display SC", serif;
 	font-size: 36px;
@@ -16,11 +28,6 @@ html {
 	text-align: center;
 }
 
-.text {
-	font-family: Comfortaa, sans-serif;
-	font-size: 16px;
-	text-align: center;
-}
 
 #page-info {
 	margin: 100px;
