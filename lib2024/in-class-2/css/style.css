@@ -40,6 +40,10 @@ html {
 	font-size: 16px;
 }
 
+.aside {
+	padding: 20px;
+}
+
 #heading {
 	font-family: "Copperplate Gothic", serif;
 	font-size: 36px;
