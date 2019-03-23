@@ -56,10 +56,6 @@ table, th, td {
 	border-collapse: collapse;
 }
 
-th {
-	text-decoration: bold;
-}
-
 ul {
 	list-style-type: none;
 }
