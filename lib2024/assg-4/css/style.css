@@ -22,8 +22,7 @@ header {
 	height: 65px;
 	width: 165px;
 	background-color: #6dcff6;
-	position: relative;
-	left: 0px;
+	bottom: 0px;
 	display: inline-block;
 	z-index: 3;
 }
@@ -33,6 +32,11 @@ header {
     padding-right: 175px;
     padding-bottom: 50px;
     padding-left: 175px;
+}
+
+#nav-div {
+	position: absolute;
+	left: 0px;
 }
 
 @media ( min-width:960px; )
