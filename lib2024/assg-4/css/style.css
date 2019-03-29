@@ -37,6 +37,7 @@ header {
 	position: relative;
 	left: 0px;
 	bottom: 0px;
+	align-content: center;
 }
 
 @media ( min-width:960px; )
