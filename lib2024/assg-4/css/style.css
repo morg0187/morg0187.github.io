@@ -19,4 +19,8 @@ header {
 	float: left;
 }
 
+h1 {
+	padding: 175px;
+}
+
 @media ( min-width:960px; )
