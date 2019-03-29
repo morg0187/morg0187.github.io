@@ -20,7 +20,7 @@ header {
 }
 
 #main-heading {
-	text-align: center;
+	margin: 175px;
 }
 
 @media ( min-width:960px; )
