@@ -24,7 +24,8 @@ header {
 	background-color: #6dcff6;
 	position: relative;
 	top: 137.6px;
-}
+	left: 0px;
+	padding:0, 60, 0, 60;
 
 #main-heading {
 	padding-top: 50px;
