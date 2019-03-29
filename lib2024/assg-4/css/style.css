@@ -22,7 +22,7 @@ header {
 	height: 65px;
 	width: 165px;
 	background-color: #6dcff6;
-	position: fixed;
+	position: absolute;
 	top: 137.6px;
 	padding:0, 60, 0, 60;
 	display: inline-block;
