@@ -26,6 +26,7 @@ header {
 	top: 137.6px;
 	left: 0px;
 	padding:0, 60, 0, 60;
+	display: inline;
 }
 
 #main-heading {
@@ -33,10 +34,6 @@ header {
     padding-right: 175px;
     padding-bottom: 50px;
     padding-left: 175px;
-}
-
-#navigation {
-	display: inline;
 }
 
 @media ( min-width:960px; )
