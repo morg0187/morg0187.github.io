@@ -39,7 +39,6 @@ header {
 	position: relative;
 	left: 0px;
 	bottom: 0px;
-	padding-left: 60px;
 }
 
 @media ( min-width:960px; )
