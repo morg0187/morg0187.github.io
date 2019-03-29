@@ -37,6 +37,7 @@ header {
 #nav-div {
 	position: absolute;
 	left: 0px;
+	bottom: 0px;
 }
 
 @media ( min-width:960px; )
