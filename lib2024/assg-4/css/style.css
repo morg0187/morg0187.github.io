@@ -35,4 +35,8 @@ header {
     padding-left: 175px;
 }
 
+#navigation {
+	display: inline;
+}
+
 @media ( min-width:960px; )
