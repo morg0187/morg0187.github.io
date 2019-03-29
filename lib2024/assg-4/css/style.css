@@ -20,7 +20,7 @@ header {
 
 .nav-li {
 	height: 65px;
-	width: 17.1875%-30px;
+	width: 17.1875%+60px;
 	background-color: #6dcff6;
 	bottom: 0px;
 	display: inline-block;
