@@ -16,6 +16,11 @@ main {
 	padding: 2%;
 }
 
+footer {
+	background-color: #7cc576;
+	height: 110px;
+}
+
 .clearfix::after {
 	content: "";
   	clear: both;
