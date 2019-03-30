@@ -66,6 +66,7 @@ main {
 	height: 250px;
 	text-align: center;
 	width: 32%;
+	display: inline-block;
 }
 
 .aside-img {
@@ -128,10 +129,6 @@ main {
 	float: left;
 	width: 96%;
 	margin-top: 3%;
-}
-
-#img-aside {
-	display: inline;
 }
 
 @media ( min-width:960px; )
