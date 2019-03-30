@@ -21,6 +21,7 @@ footer {
 	height: 115px;
 	width: 96%;
 	padding: 2%;
+	align-items: baseline;
 }
 
 .clearfix::after {
@@ -90,10 +91,6 @@ footer {
 	font-size: 16px;
 }
 
-.footer-div {
-	align-items: center;
-}
-
 .icon {
 	padding-left: 2%;
 	padding-right: 2%;
@@ -150,6 +147,7 @@ footer {
 #footer-div-1 {
 	float: left;
 	width: 73%;
+
 }
 
 #footer-div-2 {
