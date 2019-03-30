@@ -4,7 +4,7 @@
 }
 
 header {
-	height: 230px;
+	height: 23%;
 	background-color: #7cc576;
 }
 
@@ -36,7 +36,7 @@ main {
 }
 
 .nav-li {
-	height: 65px;
+	height: 29%;
 	width: 15%;
 	background-color: #6dcff6;
 	bottom: 0px;
