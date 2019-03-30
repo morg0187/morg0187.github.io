@@ -20,7 +20,6 @@ header {
 
 .heading {
 	font-family: 'Patrick Hand', cursive;
-	font-size: 36px;
 }
 
 .nav-li {
@@ -45,6 +44,10 @@ header {
     padding-right: 175px;
     padding-bottom: 50px;
     padding-left: 175px;
+}
+
+#heading-1 {
+	font-size: 36px;
 }
 
 #nav-div {
