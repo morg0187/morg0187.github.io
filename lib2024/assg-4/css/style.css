@@ -21,7 +21,6 @@ footer {
 	height: 115px;
 	width: 96%;
 	padding: 2%;
-	align-items: baseline;
 }
 
 .clearfix::after {
