@@ -29,6 +29,11 @@ main {
 	font-family: 'Patrick Hand', cursive;
 }
 
+.heading.minor-heading {
+	font-family: 'Patrick Hand', cursive;
+	font-size: 20px;
+}
+
 .nav-li {
 	height: 65px;
 	width: 15%;
