@@ -147,4 +147,9 @@ footer {
 	float: left;
 }
 
+#footer-div-2 {
+	float: right;
+	display: inline;
+}
+
 @media ( min-width:960px; )
