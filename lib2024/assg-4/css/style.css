@@ -18,6 +18,10 @@ header {
 	float: left;
 }
 
+.heading {
+	font-family: "Cinzel", serif;
+}
+
 .nav-li {
 	height: 65px;
 	width: 15%;
@@ -45,5 +49,7 @@ header {
 	margin-left: 4%;
 	margin-right: 4%;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
 
 @media ( min-width:960px; )
