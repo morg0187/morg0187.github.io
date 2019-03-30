@@ -35,8 +35,13 @@ header {
 
 .nav-link {
 	font-family: 'Dosis', sans-serif;
-	size: 25px;
+	font-size: 25px;
 	font-weight: bold;
+}
+
+.paragraph {
+	font-family: 'Dosis', sans-serif;
+	font-size: 12px;
 }
 
 #main-heading {
