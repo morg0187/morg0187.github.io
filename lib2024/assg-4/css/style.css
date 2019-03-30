@@ -103,7 +103,8 @@ main {
 }
 
 #img-div {
-
+	float: left;
+	width: 100%;
 }
 
 @media ( min-width:960px; )
