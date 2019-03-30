@@ -8,6 +8,13 @@ header {
 	background-color: #7cc576;
 }
 
+main {
+	background-image: url(https://morg0187.github.io/lib2024/assg-4/img/morocco.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 50%;
+}
+
 .clearfix::after {
 	content: "";
   	clear: both;
