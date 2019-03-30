@@ -3,13 +3,8 @@
 	padding: 0;
 }
 
-html {
-	height: 100%;
-	width: 100%;
-}
-
 header {
-	height: 23%;
+	height: 230px;
 	background-color: #7cc576;
 }
 
@@ -17,7 +12,7 @@ main {
 	background-image: url(https://morg0187.github.io/lib2024/assg-4/img/pipes.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 63%;
+	height: 720px;
 	margin: 2%;
 }
 
@@ -41,7 +36,7 @@ main {
 }
 
 .nav-li {
-	height: 29%;
+	height: 65px;
 	width: 15%;
 	background-color: #6dcff6;
 	bottom: 0px;
