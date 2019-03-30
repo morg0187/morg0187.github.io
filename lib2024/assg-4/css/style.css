@@ -51,7 +51,7 @@ footer {
 	text-align: center;
 	margin-left: 4%;
 	margin-right: 4%;
-	align-content: center;
+	justify-content: center;
 }
 
 .nav-link {
@@ -91,7 +91,7 @@ footer {
 }
 
 .footer-div {
-	justify-content: center;
+	align-items: center;
 }
 
 .icon {
