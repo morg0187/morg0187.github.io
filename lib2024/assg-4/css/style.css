@@ -95,7 +95,7 @@ main {
 
 #sidebar-img {
 	max-height: 210px;
-	max-width: 378px;
+	max-width: 100%;
 	width: auto;
 	height: auto;
 }
