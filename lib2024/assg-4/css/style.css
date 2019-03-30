@@ -143,4 +143,8 @@ footer {
 	margin-top: 3%;
 }
 
+#footer-div-1 {
+	float: left;
+}
+
 @media ( min-width:960px; )
