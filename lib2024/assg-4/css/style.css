@@ -20,7 +20,7 @@ header {
 
 .nav-li {
 	height: 65px;
-	width:calc(100%/4);
+	width:calc((100%-8%)/4-8%);
 	background-color: #6dcff6;
 	bottom: 0px;
 	display: inline-block;
@@ -41,7 +41,7 @@ header {
 	position: relative;
 	left: 0px;
 	bottom: 0px;
-	width: 100%;
+	width:calc(100%-8%);
 	display: block;
 	margin-left: 4%;
 	margin-right: 4%;
