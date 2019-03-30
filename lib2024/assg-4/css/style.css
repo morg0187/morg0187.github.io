@@ -94,6 +94,11 @@ footer {
 	justify-content: center;
 }
 
+.icon {
+	padding-left: 9%;
+	padding-right: 9%;
+}
+
 #main-heading {
 	padding-top: 50px;
     padding-right: 175px;
