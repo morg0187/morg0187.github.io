@@ -19,7 +19,7 @@ header {
 }
 
 .heading {
-	font-family: Cinzel, serif;
+	font-family: 'Patrick Hand', cursive;
 	font-size: 36px;
 }
 
@@ -50,7 +50,5 @@ header {
 	margin-left: 4%;
 	margin-right: 4%;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Cinzel');
 
 @media ( min-width:960px; )
