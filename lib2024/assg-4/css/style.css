@@ -12,9 +12,8 @@ main {
 	background-image: url(https://morg0187.github.io/lib2024/assg-4/img/pipes.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 680px;
-	margin-left: 2%;
-	margin-right: 2%;
+	height: 63%;
+	margin: 2%;
 }
 
 .clearfix::after {
