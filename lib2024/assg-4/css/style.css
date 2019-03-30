@@ -25,10 +25,15 @@ header {
 	bottom: 0px;
 	display: inline-block;
 	text-align: center;
-	justify-content: center;
-	align-items: center;
 	margin-left: 4%;
 	margin-right: 4%;
+}
+
+.nav-link {
+	top: 50%;
+	bottom: 50%;
+	left: 50%;
+	right: 50%;
 }
 
 #main-heading {
