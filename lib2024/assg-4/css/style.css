@@ -37,6 +37,7 @@ header {
 .nav-link {
 	font-family: 'Dosis', sans-serif;
 	size: 25px;
+	font-weight: bold;
 }
 
 #main-heading {
