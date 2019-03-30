@@ -18,7 +18,9 @@ main {
 
 footer {
 	background-color: #7cc576;
-	height: 110px;
+	height: 115px;
+	width: 96%
+	padding: 2%;
 }
 
 .clearfix::after {
@@ -86,6 +88,11 @@ footer {
 .caption {
 	font-family: 'Dosis', sans-serif;
 	font-size: 16px;
+}
+
+.footer-div {
+	width: 48%;
+	justify-content: center;
 }
 
 #main-heading {
