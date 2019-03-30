@@ -63,7 +63,7 @@ main {
 }
 
 .figure {
-	height: 265px;
+	height: 250px;
 	text-align: center;
 	width: 32%;
 	justify-content: center;
@@ -75,6 +75,7 @@ main {
 	height: auto;
 	width: auto;
 	margin-bottom: 15px;
+	margin-top: 15px;
 }
 
 #main-heading {
