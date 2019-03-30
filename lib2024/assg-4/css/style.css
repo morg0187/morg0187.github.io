@@ -60,6 +60,12 @@ header {
 	margin-right: 4%;
 }
 
+#article-div {
+	float: left;
+	width: 67%;
+	height: 680px;
+}
+
 #heading-2 {
 	font-size: 26px;
 }
