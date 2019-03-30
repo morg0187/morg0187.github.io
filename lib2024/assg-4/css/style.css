@@ -51,6 +51,10 @@ main {
 	font-weight: bold;
 }
 
+.main-div {
+	background-color: rgba(255,255,255,0);
+}
+
 .paragraph {
 	font-family: 'Dosis', sans-serif;
 	font-size: 16px;
@@ -80,7 +84,6 @@ main {
 #article-div {
 	float: left;
 	width: 67%;
-	background-color: rgba(255,255,255,0);
 }
 
 #heading-2 {
@@ -90,7 +93,6 @@ main {
 #aside-div {
 	float: right;
 	width: 33%;
-	background-color: rgba(255,255,255,0);
 }
 
 #sidebar-img {
@@ -98,6 +100,10 @@ main {
 	max-width: 100%;
 	width: auto;
 	height: auto;
+}
+
+#img-div {
+
 }
 
 @media ( min-width:960px; )
