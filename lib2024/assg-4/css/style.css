@@ -91,7 +91,6 @@ footer {
 }
 
 .footer-div {
-	width: 48%;
 	justify-content: center;
 }
 
@@ -145,11 +144,13 @@ footer {
 
 #footer-div-1 {
 	float: left;
+	width: 73%;
 }
 
 #footer-div-2 {
 	float: right;
 	display: inline;
+	width: 23%;
 }
 
 @media ( min-width:960px; )
