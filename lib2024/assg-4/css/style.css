@@ -128,6 +128,7 @@ main {
 	float: left;
 	width: 96%;
 	margin-top: 3%;
+	display: inline-block;
 }
 
 @media ( min-width:960px; )
