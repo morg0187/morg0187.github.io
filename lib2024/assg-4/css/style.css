@@ -118,7 +118,8 @@ main {
 
 #img-div {
 	float: left;
-	width: 96%;
+	width: 90%;
+	margin-top: 3%;
 }
 
 @media ( min-width:960px; )
