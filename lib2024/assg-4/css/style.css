@@ -13,7 +13,8 @@ main {
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 680px;
-	margin: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
 }
 
 .clearfix::after {
