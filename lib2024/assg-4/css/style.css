@@ -5,22 +5,22 @@
 
 header {
 	background-color: #7cc576;
-	height: auto;
 	width: 100%;
+	min-height: 235px;
 }
 
 main {
 	background-image: url(https://morg0187.github.io/lib2024/assg-4/img/pipes.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: auto;
-	width: 96%
+	min-height: 675px;
+	width: 96%;
 	padding: 2%;
 }
 
 footer {
 	background-color: #7cc576;
-	height: auto;
+	min-height: 110px;
 	width: 96%;
 	padding: 2%;	
 }
