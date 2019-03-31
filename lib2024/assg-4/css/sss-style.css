@@ -64,7 +64,7 @@ table, th, td {
 	font-size: 16px;
 }
 
-.table-section {
+.main-section, .table-section {
 	padding-top: 20px;
 }
 
