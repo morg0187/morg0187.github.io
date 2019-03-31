@@ -4,6 +4,7 @@
 }
 
 header {
+	background-color: #7cc576;
 	height: auto;
 	width: 100%;
 }
@@ -18,6 +19,7 @@ main {
 }
 
 footer {
+	background-color: #7cc576;
 	height: auto;
 	width: 96%;
 	padding: 2%;	
@@ -93,12 +95,6 @@ footer {
 .icon {
 	padding-left: 2%;
 	padding-right: 2%;
-}
-
-#header-wrapper {
-	background-color: #7cc576;
-	height: 100%;
-	width: 100%;
 }
 
 #main-heading {
