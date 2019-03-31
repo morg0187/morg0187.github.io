@@ -23,6 +23,13 @@ table, th, td {
 	border-collapse: collapse;
 }
 
+footer {
+	background-color: #7cc576;
+	min-height: 110px;
+	width: 96%;
+	padding: 2%;	
+}
+
 .clearfix::after {
 	content: "";
   	clear: both;
