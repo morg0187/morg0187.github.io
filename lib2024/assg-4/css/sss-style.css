@@ -23,6 +23,18 @@ header {
 	font-family: 'Patrick Hand', cursive;
 }
 
+.nav-li {
+	min-height: 65px;
+	width: 15%;
+	background-color: #6dcff6;
+	bottom: 0px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 4%;
+	margin-right: 4%;
+	justify-content: center;
+}
+
 #main-heading {
 	padding-top: 50px;
     padding-right: 175px;
@@ -32,4 +44,14 @@ header {
 
 #heading-1 {
 	font-size: 36px;
+}
+
+#nav-div {
+	position: relative;
+	left: 0px;
+	bottom: 0px;
+	width: 92%;
+	display: block;
+	margin-left: 4%;
+	margin-right: 4%;
 }
