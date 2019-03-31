@@ -32,6 +32,10 @@ main {
 	font-family: 'Patrick Hand', cursive;
 }
 
+.heading.heading-2 {
+	font-size: 26px;
+}
+
 .nav-li {
 	min-height: 65px;
 	width: 15%;
@@ -74,8 +78,4 @@ main {
 	display: block;
 	margin-left: 4%;
 	margin-right: 4%;
-}
-
-#heading-2 {
-	font-size: 26px;
 }
