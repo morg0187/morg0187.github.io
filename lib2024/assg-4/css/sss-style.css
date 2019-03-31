@@ -80,6 +80,11 @@ table, th, td {
 	width: 80%;
 }
 
+.icon {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
 #main-heading {
 	padding-top: 50px;
     padding-right: 175px;
@@ -99,4 +104,16 @@ table, th, td {
 	display: block;
 	margin-left: 4%;
 	margin-right: 4%;
+}
+
+#footer-div-1 {
+	float: left;
+	width: 73%;
+
+}
+
+#footer-div-2 {
+	float: right;
+	display: inline;
+	width: 23%;
 }
