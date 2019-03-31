@@ -45,7 +45,7 @@ footer {
 }
 
 .nav-li {
-	height: 27%;
+	min-height: 65px;
 	width: 15%;
 	background-color: #6dcff6;
 	bottom: 0px;
