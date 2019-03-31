@@ -8,3 +8,28 @@ header {
 	width: 100%;
 	min-height: 235px;
 }
+
+.clearfix::after {
+	content: "";
+  	clear: both;
+  	display: inline-block;
+}
+
+.header-div {
+	float: left;
+}
+
+.heading {
+	font-family: 'Patrick Hand', cursive;
+}
+
+#main-heading {
+	padding-top: 50px;
+    padding-right: 175px;
+    padding-bottom: 50px;
+    padding-left: 175px;
+}
+
+#heading-1 {
+	font-size: 36px;
+}
