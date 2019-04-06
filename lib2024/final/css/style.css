@@ -25,6 +25,7 @@
 .nav-li {
 	padding: 10%;
 	text-align: center;
+	display: inline-block;
 }
 
 .nav-link {
@@ -47,8 +48,4 @@
 	height: 3%;
 	padding-left: 5%;
 	background-color: #c693d6;
-}
-
-#header-nav {
-	display: inline-block;
 }
