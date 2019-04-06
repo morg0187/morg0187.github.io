@@ -24,6 +24,12 @@
 
 .nav-li {
 	padding: 3%;
+	text-align: center;
+}
+
+.nav-link {
+	font-family: Comfortaa, sans-serif;
+	font-size: 16px;
 }
 
 #logo-div {
