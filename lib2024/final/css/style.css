@@ -55,6 +55,11 @@ main {
 	background-color: rgba(255, 255, 255, 0);
 }
 
+.minor-heading {
+	font-size: 20px;
+	color: #c693d6;
+}
+
 #logo-div {
 	height: 4%;
 	padding-left: 5%;
