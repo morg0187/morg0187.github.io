@@ -38,3 +38,7 @@
 	padding-left: 5%;
 	background-color: #c693d6;
 }
+
+#header-nav {
+	display: inline-block;
+}
