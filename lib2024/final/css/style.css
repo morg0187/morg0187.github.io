@@ -18,6 +18,10 @@
 	font-family: dayposterblackregular, sans-serif;
 }
 
+.nav-list {
+	list-style-type: none;
+}
+
 #logo-div {
 	height: 4%;
 	padding-left: 5%;
