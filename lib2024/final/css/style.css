@@ -10,5 +10,6 @@
 }
 
 .header-div {
+	float: left;
 	width: 95%;
 }
