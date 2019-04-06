@@ -60,6 +60,11 @@ main {
 	color: #c693d6;
 }
 
+.paragraph {
+	font-family: 'Comfortaa', sans-serif;
+	font-size: 14px;
+}
+
 #logo-div {
 	height: 4%;
 	padding-left: 5%;
