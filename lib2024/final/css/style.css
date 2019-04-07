@@ -95,6 +95,6 @@ main {
 }
 
 #image {
-	min-width: 330px;
-	min-height: 220px;
+	max-width: 25%;
+	max-height: 14%;
 }
