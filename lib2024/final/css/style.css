@@ -80,6 +80,9 @@ main {
 .table-data {
 	font-family: 'Comfortaa', sans-serif;
 	font-size: 14px;
+}
+
+.table-link:link {
 	color: black;
 }
 
