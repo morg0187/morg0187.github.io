@@ -91,7 +91,7 @@ main {
 #photo-div {
 	float: right;
 	width: 25%;
-	justify-content: center;
+	text-align: center;
 }
 
 #image {
