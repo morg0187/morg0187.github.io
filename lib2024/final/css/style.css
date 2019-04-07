@@ -97,3 +97,8 @@ main {
 	max-width: 100%;
 	max-height: 50%;
 }
+
+#table-div {
+	float: left;
+	width: 90%;
+}
