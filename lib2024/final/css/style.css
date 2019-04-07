@@ -65,6 +65,14 @@ main {
 	font-size: 14px;
 }
 
+.table-head {
+	background-color: white;
+	font-family: 'Comfortaa', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #c693d6;
+}
+
 #logo-div {
 	height: 4%;
 	padding-left: 5%;
