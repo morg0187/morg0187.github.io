@@ -73,6 +73,15 @@ main {
 	color: #c693d6;
 }
 
+.table-row.odd-row {
+	background-color: #b4adad;
+}
+
+.table-data {
+	font-family: 'Comfortaa', sans-serif;
+	font-size: 14px;
+}
+
 #logo-div {
 	height: 4%;
 	padding-left: 5%;
