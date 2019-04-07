@@ -87,3 +87,13 @@ main {
 	float: left;
 	width: 55%;
 }
+
+#photo-div {
+	width: 25%;
+	justify-content: center;
+}
+
+#image {
+	min-width: 330px;
+	min-height: 220px;
+}
