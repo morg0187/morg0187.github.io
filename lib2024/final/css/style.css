@@ -83,6 +83,10 @@ main {
 	color: black;
 }
 
+.table-link:hover {
+	color: white;
+}
+
 #logo-div {
 	height: 4%;
 	padding-left: 5%;
