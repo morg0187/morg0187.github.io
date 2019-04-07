@@ -111,6 +111,11 @@ main {
 	width: 90%;
 }
 
+#schedule-table {
+	width: 90%;
+	text-align: center;
+}
+
 #schedule-table, .table-row, .table-head, .table-data {
 	border: 2px solid black;
 	border-collapse: collapse;
